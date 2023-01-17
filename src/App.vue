@@ -23,8 +23,4 @@ export default {
   background: #eff2f5;
   flex-direction: column;
 }
-
-body {
-  background-color: #eff2f5;
-}
 </style>
